@@ -1,0 +1,7 @@
+opencv-python
+matplotlib==3.0.3
+numpy
+pyautogui
+scipy
+pywin32
+pillow

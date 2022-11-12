@@ -249,7 +249,7 @@ plt.imshow(image)
 plt.imsave(fileName, image)
 im = Image.open(fileName)
 pix = im.load()
-text = plt.figtext(0, 0, s="COLOR HERE")
+text = plt.figtext(0, 0, s="COLOR HERE", fontsize=20)
 
 while True:
     plt.show()
