@@ -1,8 +1,5 @@
-import numpy as np
-import scipy.spatial as sp
 import matplotlib.pyplot as plt
 from PIL import Image
-from pynput.mouse import Listener
 import cv2
 import pyautogui
 import win32api
